@@ -4,5 +4,5 @@
 [`BaekJoon`]: https://www.acmicpc.net/ 
 
 ## 블로그 참고 : [`NaverBlog`]  
-[`NaverBlog`]: https://www.blog.naver.com/zzang9ha
+[`NaverBlog`]: https://blog.naver.com/zzang9ha
 
