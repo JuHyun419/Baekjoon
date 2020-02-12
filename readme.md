@@ -1,8 +1,6 @@
 # 백준 알고리즘 풀이
 
-## 사이트 : [`BaekJoon`]  
-[`BaekJoon`]: https://www.acmicpc.net/ 
-
-## 블로그 참고 : [`NaverBlog`]  
-[`NaverBlog`]: https://blog.naver.com/zzang9ha
-
+- 이 레퍼지토리는 백준 온라인 알고리즘의 코드를 작성한 레퍼지토리입니다.
+- 백준 사이트는 **[`BaekJoon`]** <- 클릭하시면 이동됩니다.
+- 이 레퍼지토리에 대한 주석 & 설명은 **[`NaverBlog`]** <- 클릭하시면 이동됩니다.
+- 그럼 다같이 재밌는 알고리즘을 풀어봅시다. :smile:
